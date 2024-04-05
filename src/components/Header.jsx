@@ -14,7 +14,7 @@ const Header = () => {
 };
 
 const MainHeader = styled.header`
-  overflow-x: hidden;
+  ${'' /* overflow-x: hidden; */}
   padding: 0 4.8rem;
   width: 100%;
   height: 10rem;
